@@ -1,4 +1,4 @@
-# SIEM-Lab
+# SIEM-Lab with Wazuh
 
 ## Objective
 [Brief Objective - Remove this afterwards]
